@@ -1,4 +1,4 @@
-battery_power_mAh,clock_speed,dual_sim,front_cam_mp,5G,int_memory_gb,thickness_cm,weight_grams,n_cores,back_cam_mp,ram_mb,screen_height_cm,screen_width_cm,talk_time_hrs,condition,price_$
+battery_power_mAh,clock_speed,dual_sim,front_cam_mp,5G,int_memory_gb,thickness_cm,weight_grams,n_cores,back_cam_mp,ram_mb,screen_height_cm,screen_width_cm,talk_time_hrs,condition,price
 1650,2.3,no,0,1,38,0.7,89,1,1,324,14,10,2,fair,92
 1093,1.1,yes,0,0,42,0.4,114,1,4,2856,12,3,2,good,263
 1934,2.6,yes,0,1,46,0.1,103,1,17,2940,13,9,2,like_new,498
