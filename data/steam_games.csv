@@ -1,4 +1,4 @@
-AppID,Name,Developer,Publisher,Genre,Categories,Owners,Positive_Reviews,Negative_Reviews,Price_USD,Initial_Price_USD,Discount_Percent,Peak_Concurrent_Players,Platforms,Release_Date,Required Age,Avg_Rating_5,Playability_Index_10
+AppID,Name,Developer,Publisher,Genre,Categories,Owners,Positive_Reviews,Negative_Reviews,Price_USD,Initial_Price_USD,Discount_Percent,Peak_Concurrent_Players,Platforms,Release_Date,Required_Age,Avg_Rating_5,Playability_Index_10
 10,Counter-Strike,Valve,Valve,Action,"Multi-player, Valve Anti-Cheat enabled, Online PvP, Shared/Split Screen PvP, PvP","10,000,000 .. 20,000,000",201215,5199,9.99,9.99,0,13990,"windows, mac, linux",11/1/2000,0,3.87,6.54
 20,Team Fortress Classic,Valve,Valve,Action,"Multi-player, Valve Anti-Cheat enabled, Online PvP, Shared/Split Screen PvP, Remote Play Together, PvP","1,000,000 .. 2,000,000",5835,934,4.99,4.99,0,101,"windows, mac, linux",4/1/1999,0,3.92,8.15
 30,Day of Defeat,Valve,Valve,Action,"Multi-player, Valve Anti-Cheat enabled","5,000,000 .. 10,000,000",5251,569,4.99,4.99,0,142,"windows, mac, linux",5/1/2003,0,4.9,7.25
