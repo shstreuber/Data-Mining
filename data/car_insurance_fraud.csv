@@ -167,7 +167,7 @@ Jan,2,Wednesday,Toyota,Urban,Monday,Jan,4,Female,Married,32,Third Party,Sedan,16
 Jan,2,Thursday,Toyota,Urban,Thursday,Jan,2,Male,Married,57,Policy Holder,Sport,166,4,400,1,more than 7,51 to 65,No,No,no change,1,Liability,22978,2,0
 Jan,3,Friday,Honda,Urban,Monday,Jan,3,Male,Married,65,Third Party,Sedan,167,8,400,2,more than 7,51 to 65,No,No,no change,1,All Perils,26812,1,0
 Oct,2,Saturday,Toyota,Urban,Monday,Oct,2,Female,Single,27,Policy Holder,Sedan,168,12,400,4,6 years,31 to 35,No,No,no change,1,Collision,26468,0,0
-May,4,Friday,Nisson,Rural,Wednesday,Jul,2,Male,Married,42,Policy Holder,Utility,169,6,400,4,more than 7,36 to 40,No,No,4 to 8 years,2,All Perils,78515,3,0
+May,4,Friday,Nissan,Rural,Wednesday,Jul,2,Male,Married,42,Policy Holder,Utility,169,6,400,4,more than 7,36 to 40,No,No,4 to 8 years,2,All Perils,78515,3,0
 May,3,Thursday,Honda,Urban,Monday,May,4,Male,Married,57,Policy Holder,Sport,170,7,400,1,more than 7,51 to 65,No,No,no change,1,Liability,29742,4,0
 Mar,4,Friday,Pontiac,Urban,Wednesday,Mar,5,Male,Single,32,Policy Holder,Sedan,171,2,400,3,7 years,31 to 35,No,No,no change,1,All Perils,25387,0,0
 Mar,1,Saturday,Mazda,Urban,Monday,Mar,3,Male,Single,29,Policy Holder,Sport,172,7,400,2,7 years,31 to 35,No,No,no change,1,Liability,25201,2,0
@@ -893,7 +893,7 @@ Jan,4,Thursday,Pontiac,Urban,Wednesday,Apr,2,Male,Married,48,Policy Holder,Sedan
 Apr,3,Monday,Honda,Urban,Thursday,Apr,3,Male,Married,31,Third Party,Sedan,892,5,400,2,5 years,31 to 35,No,No,no change,1,All Perils,25677,0,0
 Dec,1,Monday,Honda,Urban,Thursday,Dec,4,Female,Married,51,Third Party,Sedan,893,8,400,2,6 years,41 to 50,No,No,no change,1,Collision,7148,0,0
 Nov,2,Saturday,Mazda,Urban,Friday,Nov,3,Female,Married,45,Third Party,Sedan,894,13,400,2,6 years,36 to 40,No,No,no change,1,All Perils,22271,0,0
-Jan,4,Thursday,Nisson,Rural,Thursday,Feb,1,Male,Married,24,Policy Holder,Sedan,895,12,400,1,5 years,26 to 30,No,No,no change,1,Collision,38307,3,1
+Jan,4,Thursday,Nissan,Rural,Thursday,Feb,1,Male,Married,24,Policy Holder,Sedan,895,12,400,1,5 years,26 to 30,No,No,no change,1,Collision,38307,3,1
 Nov,3,Tuesday,Honda,Urban,Wednesday,Dec,3,Male,Married,29,Third Party,Sedan,896,16,400,2,7 years,31 to 35,No,No,no change,1,Collision,7166,0,0
 Jul,5,Friday,Pontiac,Urban,Tuesday,Aug,1,Male,Single,31,Policy Holder,Sport,897,13,400,3,6 years,31 to 35,No,No,no change,1,Liability,24441,7,0
 Aug,2,Saturday,Pontiac,Urban,Tuesday,Aug,3,Male,Single,30,Third Party,Sedan,898,2,400,1,6 years,31 to 35,No,No,no change,1,All Perils,28320,0,0
@@ -943,7 +943,7 @@ Nov,1,Friday,Pontiac,Urban,Saturday,Nov,1,Female,Married,30,Policy Holder,Sedan,
 Nov,2,Saturday,Honda,Urban,Saturday,Nov,3,Male,Single,19,Policy Holder,Sport,942,12,400,2,3 years,21 to 25,No,No,no change,1,Collision,72282,0,0
 Nov,2,Monday,Honda,Urban,Monday,Nov,4,Male,Married,34,Policy Holder,Sport,943,7,400,2,5 years,31 to 35,No,No,no change,1,Liability,25852,9,0
 Jan,5,Sunday,Saab,Rural,Tuesday,Feb,2,Male,Married,59,Third Party,Sedan,944,3,400,4,more than 7,51 to 65,No,No,no change,3,All Perils,31562,3,0
-Nov,4,Tuesday,Porche,Urban,Thursday,Nov,4,Male,Married,50,Policy Holder,Sport,945,8,400,1,more than 7,41 to 50,No,No,no change,1,Liability,86841,1,0
+Nov,4,Tuesday,Porsche,Urban,Thursday,Nov,4,Male,Married,50,Policy Holder,Sport,945,8,400,1,more than 7,41 to 50,No,No,no change,1,Liability,86841,1,0
 Jan,5,Sunday,Mazda,Rural,Friday,Mar,4,Male,Married,46,Policy Holder,Sedan,946,6,400,3,5 years,41 to 50,No,No,4 to 8 years,2,All Perils,26157,4,1
 Nov,1,Friday,Pontiac,Urban,Wednesday,Nov,2,Male,Single,18,Third Party,Sedan,947,6,400,2,3 years,21 to 25,No,No,no change,1,All Perils,22500,9,0
 Nov,1,Wednesday,Toyota,Urban,Monday,Nov,3,Male,Married,64,Policy Holder,Sport,948,6,400,3,7 years,51 to 65,No,No,no change,1,Liability,39673,2,0
@@ -1241,7 +1241,7 @@ Mar,5,Monday,Pontiac,Rural,Tuesday,Apr,3,Male,Married,59,Policy Holder,Sedan,123
 Mar,4,Sunday,Pontiac,Rural,Tuesday,Apr,2,Male,Single,27,Policy Holder,Sedan,1240,12,400,4,6 years,31 to 35,No,No,4 to 8 years,2,All Perils,10908,0,0
 Mar,3,Thursday,Chevrolet,Urban,Thursday,Mar,3,Male,Single,34,Policy Holder,Sport,1241,14,700,1,7 years,31 to 35,No,No,no change,1,Liability,36034,4,0
 Mar,3,Sunday,Toyota,Urban,Tuesday,Mar,4,Male,Married,58,Third Party,Sedan,1242,10,400,2,more than 7,51 to 65,No,No,no change,1,All Perils,11590,0,0
-Mar,3,Wednesday,Nisson,Urban,Thursday,Mar,3,Male,Married,58,Third Party,Sedan,1243,5,400,3,more than 7,51 to 65,No,No,no change,1,All Perils,31255,4,0
+Mar,3,Wednesday,Nissan,Urban,Thursday,Mar,3,Male,Married,58,Third Party,Sedan,1243,5,400,3,more than 7,51 to 65,No,No,no change,1,All Perils,31255,4,0
 Sep,2,Saturday,Honda,Urban,Monday,Apr,3,Male,Single,0,Policy Holder,Sport,1244,15,400,2,new,16 to 17,No,No,no change,1,All Perils,93340,1,0
 Oct,3,Monday,Honda,Urban,Tuesday,Oct,3,Male,Married,35,Policy Holder,Sedan,1245,15,400,3,5 years,31 to 35,No,No,no change,1,Collision,34249,0,0
 Jan,4,Wednesday,Honda,Urban,Monday,Jan,5,Male,Married,36,Third Party,Sedan,1246,1,400,1,7 years,36 to 40,No,No,no change,1,All Perils,23650,1,0
@@ -1446,7 +1446,7 @@ Aug,3,Monday,Chevrolet,Urban,Wednesday,Aug,3,Male,Divorced,34,Policy Holder,Seda
 Oct,1,Thursday,Chevrolet,Rural,Monday,Oct,3,Female,Married,47,Policy Holder,Sedan,1445,14,400,2,6 years,41 to 50,No,No,no change,1,Collision,24389,1,0
 Oct,1,Wednesday,Chevrolet,Urban,Monday,Oct,2,Male,Single,33,Policy Holder,Sport,1446,5,400,2,6 years,31 to 35,No,No,no change,1,Liability,71982,1,0
 Dec,4,Wednesday,Pontiac,Urban,Monday,Jan,2,Male,Single,31,Third Party,Sedan,1447,10,400,1,7 years,31 to 35,Yes,No,no change,1,Collision,25105,2,0
-Dec,2,Monday,Porche,Urban,Wednesday,Dec,3,Male,Married,63,Policy Holder,Utility,1448,8,400,2,more than 7,51 to 65,No,No,no change,1,All Perils,14536,8,0
+Dec,2,Monday,Porsche,Urban,Wednesday,Dec,3,Male,Married,63,Policy Holder,Utility,1448,8,400,2,more than 7,51 to 65,No,No,no change,1,All Perils,14536,8,0
 Apr,4,Wednesday,Chevrolet,Urban,Thursday,May,2,Male,Single,33,Third Party,Sedan,1449,14,400,2,6 years,31 to 35,No,No,no change,1,Collision,23076,3,0
 Jun,2,Wednesday,Toyota,Rural,Thursday,Jun,2,Male,Married,39,Policy Holder,Sedan,1450,8,400,3,more than 7,36 to 40,No,No,4 to 8 years,2,All Perils,88472,0,0
 Aug,4,Friday,Honda,Urban,Tuesday,Sep,3,Male,Single,25,Policy Holder,Sedan,1451,11,400,4,5 years,26 to 30,No,No,no change,1,Collision,28143,4,0
@@ -1611,7 +1611,7 @@ Nov,2,Thursday,Pontiac,Urban,Tuesday,Nov,5,Female,Married,47,Policy Holder,Sedan
 Nov,3,Saturday,Mazda,Urban,Thursday,Nov,4,Female,Married,29,Policy Holder,Sport,1610,16,400,3,6 years,31 to 35,No,No,no change,1,Liability,20272,4,0
 Dec,2,Sunday,Mazda,Urban,Friday,Jan,2,Male,Married,54,Policy Holder,Sedan,1611,16,400,4,more than 7,41 to 50,No,No,no change,1,All Perils,35836,3,0
 Dec,4,Tuesday,Toyota,Urban,Monday,Jan,4,Female,Married,30,Policy Holder,Sedan,1612,10,400,1,6 years,31 to 35,No,No,no change,1,All Perils,19837,0,0
-Jan,1,Tuesday,Nisson,Urban,Wednesday,Jan,1,Male,Married,36,Policy Holder,Sport,1613,6,400,2,6 years,36 to 40,No,No,no change,1,Liability,39747,8,0
+Jan,1,Tuesday,Nissan,Urban,Wednesday,Jan,1,Male,Married,36,Policy Holder,Sport,1613,6,400,2,6 years,36 to 40,No,No,no change,1,Liability,39747,8,0
 Jan,2,Tuesday,Mazda,Urban,Monday,Jan,3,Female,Married,37,Policy Holder,Sport,1614,12,400,4,more than 7,36 to 40,No,No,no change,1,Liability,36777,5,0
 May,3,Thursday,Pontiac,Urban,Monday,May,4,Male,Married,49,Policy Holder,Sedan,1615,16,400,1,more than 7,41 to 50,No,No,no change,1,Collision,23274,4,0
 Feb,5,Monday,VW,Urban,Friday,Apr,1,Male,Married,50,Policy Holder,Sport,1616,7,400,2,more than 7,41 to 50,No,No,no change,1,Liability,38915,3,0
@@ -1706,7 +1706,7 @@ Oct,2,Thursday,VW,Urban,Friday,Oct,2,Male,Single,59,Policy Holder,Sport,1704,6,4
 Dec,2,Thursday,Honda,Rural,Monday,Dec,2,Male,Married,37,Policy Holder,Sedan,1705,9,400,3,7 years,36 to 40,No,No,no change,1,Collision,5458,1,0
 Nov,2,Saturday,Mazda,Urban,Wednesday,Nov,4,Female,Married,39,Policy Holder,Sport,1706,3,700,2,more than 7,36 to 40,No,No,no change,1,Liability,22973,1,0
 Oct,4,Saturday,Accura,Urban,Monday,Oct,4,Male,Married,55,Policy Holder,Sedan,1707,7,400,4,more than 7,41 to 50,No,No,no change,1,Collision,38435,0,0
-Oct,4,Monday,Nisson,Rural,Thursday,Oct,4,Male,Married,43,Policy Holder,Utility,1708,5,400,2,7 years,36 to 40,No,No,no change,1,Collision,92964,4,0
+Oct,4,Monday,Nissan,Rural,Thursday,Oct,4,Male,Married,43,Policy Holder,Utility,1708,5,400,2,7 years,36 to 40,No,No,no change,1,Collision,92964,4,0
 Oct,4,Saturday,Dodge,Urban,Monday,Oct,4,Male,Single,27,Policy Holder,Sport,1709,8,400,1,6 years,31 to 35,No,No,no change,1,Liability,21352,4,0
 Oct,3,Thursday,Mazda,Urban,Friday,Oct,3,Male,Married,29,Policy Holder,Sedan,1710,13,400,1,7 years,31 to 35,Yes,No,no change,1,Collision,69460,1,0
 Oct,1,Wednesday,Accura,Urban,Friday,Oct,4,Male,Married,33,Policy Holder,Sedan,1711,8,400,3,6 years,31 to 35,No,No,no change,1,All Perils,70405,3,0
@@ -2293,7 +2293,7 @@ Sep,2,Tuesday,Accura,Rural,Monday,Sep,3,Male,Married,61,Policy Holder,Utility,22
 Sep,2,Monday,Honda,Urban,Wednesday,Nov,2,Male,Married,25,Policy Holder,Sport,2292,2,400,4,6 years,26 to 30,No,No,no change,1,Collision,86320,3,0
 Mar,4,Thursday,Chevrolet,Urban,Friday,Apr,1,Male,Married,52,Policy Holder,Sedan,2293,10,400,2,more than 7,41 to 50,No,No,no change,1,Collision,39543,4,1
 Nov,4,Monday,Toyota,Urban,Wednesday,Dec,2,Male,Married,53,Policy Holder,Sedan,2294,14,400,3,more than 7,41 to 50,No,No,no change,1,All Perils,17743,0,0
-Nov,1,Friday,Nisson,Urban,Wednesday,Nov,2,Male,Married,47,Third Party,Utility,2295,16,700,2,more than 7,41 to 50,No,No,no change,1,Collision,72404,7,0
+Nov,1,Friday,Nissan,Urban,Wednesday,Nov,2,Male,Married,47,Third Party,Utility,2295,16,700,2,more than 7,41 to 50,No,No,no change,1,Collision,72404,7,0
 Nov,1,Thursday,Saab,Urban,Friday,Nov,1,Male,Married,39,Policy Holder,Sedan,2296,5,500,4,7 years,36 to 40,No,No,2 to 3 years,1,Collision,31954,10,0
 May,5,Monday,Toyota,Rural,Thursday,Jun,1,Male,Married,49,Policy Holder,Sedan,2297,2,400,3,more than 7,41 to 50,No,No,no change,4,All Perils,28762,0,0
 May,4,Friday,Mazda,Urban,Thursday,Jun,3,Male,Single,34,Policy Holder,Sedan,2298,1,400,2,6 years,31 to 35,No,No,no change,1,Collision,25775,10,0
@@ -2879,7 +2879,7 @@ Jun,4,Saturday,Ford,Urban,Friday,Jul,1,Male,Married,48,Policy Holder,Sedan,2877,
 Jun,3,Saturday,Honda,Urban,Monday,Aug,2,Male,Married,30,Third Party,Sedan,2878,14,400,4,5 years,31 to 35,No,No,4 to 8 years,2,All Perils,23569,0,0
 Jun,3,Thursday,Pontiac,Urban,Thursday,Jun,3,Female,Married,33,Third Party,Sedan,2879,9,400,1,6 years,31 to 35,No,No,no change,1,All Perils,20007,1,0
 Jul,2,Sunday,Toyota,Urban,Tuesday,Jul,3,Male,Single,41,Policy Holder,Sedan,2880,3,400,3,7 years,36 to 40,No,No,no change,1,All Perils,26163,2,0
-Aug,1,Monday,Nisson,Urban,Wednesday,Dec,2,Male,Married,49,Policy Holder,Sedan,2881,15,400,2,more than 7,41 to 50,No,No,no change,1,All Perils,37606,1,0
+Aug,1,Monday,Nissan,Urban,Wednesday,Dec,2,Male,Married,49,Policy Holder,Sedan,2881,15,400,2,more than 7,41 to 50,No,No,no change,1,All Perils,37606,1,0
 Aug,1,Tuesday,Chevrolet,Urban,Thursday,Aug,4,Male,Married,55,Policy Holder,Sedan,2882,11,400,2,more than 7,41 to 50,No,No,no change,1,Collision,32373,3,0
 Jul,4,Friday,Ford,Urban,Friday,Jul,4,Male,Single,51,Policy Holder,Sport,2883,5,400,4,6 years,41 to 50,No,No,no change,1,Liability,86117,7,0
 Aug,3,Tuesday,Toyota,Urban,Wednesday,Aug,4,Male,Single,26,Third Party,Sedan,2884,9,400,4,6 years,31 to 35,No,No,no change,1,Collision,24014,0,0
@@ -3410,8 +3410,8 @@ May,1,Friday,Toyota,Urban,Thursday,Jun,2,Male,Married,51,Policy Holder,Sedan,340
 Dec,4,Friday,Ford,Rural,Wednesday,Dec,4,Male,Married,36,Third Party,Utility,3409,5,400,3,7 years,36 to 40,No,No,no change,1,All Perils,91447,0,0
 Dec,1,Monday,Chevrolet,Urban,Monday,Dec,3,Male,Single,35,Policy Holder,Sport,3410,9,400,2,7 years,31 to 35,No,No,no change,1,Liability,28311,1,0
 Oct,3,Wednesday,Toyota,Urban,Monday,Nov,1,Male,Married,40,Policy Holder,Sedan,3411,10,700,4,7 years,36 to 40,No,No,no change,1,All Perils,39602,0,0
-Oct,2,Friday,Nisson,Urban,Thursday,Oct,3,Male,Married,31,Policy Holder,Sedan,3412,10,400,2,6 years,31 to 35,No,No,no change,1,Collision,36379,2,0
-Aug,5,Thursday,Nisson,Rural,Tuesday,Nov,3,Male,Married,40,Policy Holder,Sport,3413,1,400,2,6 years,36 to 40,No,No,no change,1,Liability,84691,3,0
+Oct,2,Friday,Nissan,Urban,Thursday,Oct,3,Male,Married,31,Policy Holder,Sedan,3412,10,400,2,6 years,31 to 35,No,No,no change,1,Collision,36379,2,0
+Aug,5,Thursday,Nissan,Rural,Tuesday,Nov,3,Male,Married,40,Policy Holder,Sport,3413,1,400,2,6 years,36 to 40,No,No,no change,1,Liability,84691,3,0
 Aug,3,Tuesday,Toyota,Urban,Thursday,Aug,3,Male,Married,27,Policy Holder,Sedan,3414,4,400,1,7 years,31 to 35,No,No,no change,1,All Perils,26606,0,0
 Aug,1,Tuesday,Pontiac,Urban,Friday,Aug,2,Male,Married,29,Policy Holder,Sedan,3415,1,400,2,7 years,31 to 35,No,No,no change,1,All Perils,24524,0,0
 Jun,2,Tuesday,Honda,Urban,Tuesday,Jun,3,Male,Married,37,Policy Holder,Sport,3416,3,400,4,7 years,36 to 40,No,No,no change,1,Liability,30052,3,0
@@ -4790,7 +4790,7 @@ Dec,3,Friday,Toyota,Rural,Tuesday,Dec,3,Male,Married,40,Policy Holder,Sedan,4788
 Dec,3,Friday,Pontiac,Urban,Friday,Dec,3,Male,Single,61,Policy Holder,Sport,4789,1,400,4,more than 7,51 to 65,No,No,4 to 8 years,2,Liability,28164,0,0
 Dec,3,Friday,Accura,Urban,Monday,Dec,3,Male,Married,61,Policy Holder,Sedan,4790,4,400,3,more than 7,51 to 65,No,No,no change,1,Collision,36969,9,0
 Dec,4,Monday,Mazda,Urban,Tuesday,Dec,4,Male,Married,30,Policy Holder,Sedan,4791,5,400,4,7 years,31 to 35,No,No,no change,1,All Perils,20320,0,0
-Dec,4,Wednesday,Nisson,Urban,Wednesday,Dec,4,Male,Married,49,Policy Holder,Utility,4792,1,400,2,more than 7,41 to 50,No,No,no change,1,All Perils,91835,0,0
+Dec,4,Wednesday,Nissan,Urban,Wednesday,Dec,4,Male,Married,49,Policy Holder,Utility,4792,1,400,2,more than 7,41 to 50,No,No,no change,1,All Perils,91835,0,0
 Dec,4,Tuesday,Honda,Urban,Wednesday,Dec,4,Male,Married,27,Policy Holder,Sedan,4793,7,400,3,7 years,31 to 35,No,No,no change,1,Collision,20740,0,0
 Dec,5,Thursday,Pontiac,Urban,Friday,Dec,5,Female,Single,27,Policy Holder,Sedan,4794,15,400,2,7 years,31 to 35,Yes,No,no change,1,Collision,27577,3,0
 Dec,4,Friday,Chevrolet,Urban,Thursday,Dec,5,Male,Married,32,Third Party,Sedan,4795,9,500,4,6 years,31 to 35,No,No,2 to 3 years,1,Collision,22180,4,1
@@ -5108,7 +5108,7 @@ Jun,4,Thursday,Chevrolet,Urban,Thursday,Jun,4,Male,Single,46,Policy Holder,Sedan
 Jun,1,Wednesday,Mazda,Urban,Friday,Jun,1,Female,Married,37,Policy Holder,Sedan,5107,8,400,3,more than 7,36 to 40,Yes,No,no change,1,All Perils,27680,1,0
 May,3,Monday,Saturn,Urban,Wednesday,May,3,Male,Married,27,Policy Holder,Sedan,5108,11,400,4,6 years,31 to 35,No,No,no change,1,All Perils,28509,1,0
 Jan,3,Monday,Toyota,Urban,Monday,Jan,3,Male,Married,73,Policy Holder,Sedan,5109,10,400,4,more than 7,over 65,No,No,no change,1,All Perils,6211,1,0
-Jan,3,Monday,Nisson,Urban,Monday,Jan,3,Male,Single,32,Policy Holder,Sport,5110,4,400,3,7 years,31 to 35,No,No,no change,1,Liability,38019,4,0
+Jan,3,Monday,Nissan,Urban,Monday,Jan,3,Male,Single,32,Policy Holder,Sport,5110,4,400,3,7 years,31 to 35,No,No,no change,1,Liability,38019,4,0
 Jan,3,Sunday,Honda,Urban,Monday,Jan,3,Male,Single,0,Policy Holder,Sedan,5111,11,400,2,new,16 to 17,No,No,no change,1,All Perils,88214,2,0
 Jan,2,Monday,Pontiac,Urban,Monday,Jan,2,Male,Married,39,Policy Holder,Sport,5112,3,400,4,7 years,36 to 40,No,No,no change,1,Liability,28877,1,0
 Jul,3,Saturday,Toyota,Urban,Monday,Jul,3,Female,Single,27,Policy Holder,Sedan,5113,13,400,4,6 years,31 to 35,No,No,no change,1,All Perils,8573,1,1
@@ -6069,7 +6069,7 @@ Jul,3,Friday,Toyota,Urban,Friday,Jul,4,Male,Married,65,Third Party,Sedan,6067,11
 Jul,2,Wednesday,Pontiac,Urban,Wednesday,Jul,3,Male,Married,61,Policy Holder,Sedan,6068,12,400,1,more than 7,51 to 65,No,No,no change,1,All Perils,9404,0,0
 Jul,2,Tuesday,Toyota,Urban,Tuesday,Jul,2,Male,Married,54,Policy Holder,Sport,6069,11,400,3,more than 7,41 to 50,No,No,no change,3,Liability,21054,8,0
 Jul,1,Sunday,Ford,Urban,Monday,Jul,1,Male,Married,55,Policy Holder,Sedan,6070,1,500,1,more than 7,41 to 50,No,No,2 to 3 years,2,Collision,5681,1,0
-Jun,4,Monday,Nisson,Urban,Tuesday,Jun,5,Male,Married,47,Policy Holder,Sedan,6071,16,400,3,more than 7,41 to 50,No,No,no change,1,All Perils,96547,5,0
+Jun,4,Monday,Nissan,Urban,Tuesday,Jun,5,Male,Married,47,Policy Holder,Sedan,6071,16,400,3,more than 7,41 to 50,No,No,no change,1,All Perils,96547,5,0
 Jun,4,Sunday,Pontiac,Urban,Thursday,Jun,5,Male,Married,43,Policy Holder,Sport,6072,13,400,2,6 years,36 to 40,No,No,no change,1,Liability,81980,6,0
 Sep,1,Thursday,Honda,Urban,Friday,Sep,1,Male,Married,31,Policy Holder,Sedan,6073,14,400,1,7 years,31 to 35,No,No,no change,1,All Perils,36415,0,1
 May,4,Wednesday,Honda,Urban,Tuesday,Jun,3,Male,Single,41,Policy Holder,Sport,6074,14,400,1,7 years,36 to 40,No,No,no change,1,Liability,77000,10,0
@@ -7026,7 +7026,7 @@ Dec,5,Thursday,Pontiac,Urban,Wednesday,Jan,1,Male,Married,41,Third Party,Sport,7
 Dec,5,Tuesday,Saab,Urban,Tuesday,Jan,1,Male,Married,31,Policy Holder,Sedan,7025,10,400,2,5 years,31 to 35,No,No,no change,1,All Perils,34531,1,0
 Dec,5,Tuesday,Honda,Urban,Friday,Jan,2,Male,Married,29,Policy Holder,Sport,7026,6,400,4,6 years,31 to 35,No,No,no change,1,Liability,27981,4,0
 Dec,5,Friday,Toyota,Urban,Tuesday,Jan,1,Male,Married,58,Policy Holder,Sedan,7027,16,400,3,more than 7,51 to 65,No,No,no change,1,All Perils,94433,4,0
-Jan,1,Sunday,Nisson,Urban,Friday,Jan,4,Male,Married,33,Policy Holder,Sedan,7028,16,400,3,7 years,31 to 35,No,No,no change,1,Collision,33825,6,0
+Jan,1,Sunday,Nissan,Urban,Friday,Jan,4,Male,Married,33,Policy Holder,Sedan,7028,16,400,3,7 years,31 to 35,No,No,no change,1,Collision,33825,6,0
 Dec,5,Friday,Pontiac,Urban,Wednesday,Jan,1,Female,Married,32,Policy Holder,Sedan,7029,5,400,2,7 years,31 to 35,No,No,no change,1,Collision,26575,0,0
 Jan,1,Tuesday,Honda,Urban,Tuesday,Jan,1,Male,Single,27,Policy Holder,Sport,7030,10,400,4,6 years,31 to 35,No,No,no change,1,Liability,34171,4,0
 Jan,1,Tuesday,Honda,Urban,Tuesday,Jan,1,Male,Single,24,Policy Holder,Sedan,7031,6,400,1,6 years,26 to 30,No,No,no change,1,Collision,24092,3,0
@@ -7813,7 +7813,7 @@ Jul,2,Friday,Pontiac,Urban,Monday,Jul,3,Male,Single,27,Policy Holder,Sport,7811,
 Jun,2,Friday,Pontiac,Urban,Tuesday,Jun,2,Male,Married,75,Third Party,Sedan,7812,3,400,2,7 years,over 65,No,No,no change,1,All Perils,27290,1,0
 Jul,3,Sunday,Pontiac,Urban,Tuesday,Jul,4,Male,Single,47,Policy Holder,Sport,7813,16,700,1,more than 7,41 to 50,No,No,4 to 8 years,2,Liability,28915,1,0
 Jul,2,Tuesday,Dodge,Urban,Friday,Jul,4,Male,Married,38,Policy Holder,Sport,7814,2,400,3,7 years,36 to 40,No,No,no change,1,Liability,38976,8,0
-Aug,3,Thursday,Nisson,Urban,Friday,Aug,3,Male,Married,41,Third Party,Sedan,7815,11,400,4,more than 7,36 to 40,No,No,no change,1,All Perils,82891,0,0
+Aug,3,Thursday,Nissan,Urban,Friday,Aug,3,Male,Married,41,Third Party,Sedan,7815,11,400,4,more than 7,36 to 40,No,No,no change,1,All Perils,82891,0,0
 Aug,2,Wednesday,Accura,Urban,Thursday,Aug,2,Male,Married,37,Policy Holder,Sport,7816,7,400,2,more than 7,36 to 40,No,No,no change,1,Liability,74947,4,0
 Oct,5,Tuesday,Pontiac,Urban,Friday,Nov,1,Male,Married,52,Third Party,Sedan,7817,1,400,2,7 years,41 to 50,No,No,no change,1,All Perils,6941,0,0
 Nov,1,Wednesday,Chevrolet,Urban,Tuesday,Nov,3,Male,Married,48,Policy Holder,Sport,7818,6,400,2,7 years,41 to 50,No,No,no change,1,Liability,37330,2,0
@@ -8058,7 +8058,7 @@ Nov,4,Thursday,Mazda,Urban,Monday,Nov,5,Male,Married,28,Third Party,Sport,8056,4
 Aug,4,Monday,Pontiac,Urban,Monday,Aug,4,Male,Married,24,Policy Holder,Sport,8057,1,400,3,5 years,26 to 30,No,No,no change,1,Liability,29284,10,0
 Jul,1,Friday,Dodge,Urban,Wednesday,Jul,1,Female,Married,42,Policy Holder,Sedan,8058,11,400,2,7 years,36 to 40,No,No,no change,1,Collision,94163,2,0
 Nov,3,Thursday,Accura,Urban,Wednesday,Dec,4,Male,Married,28,Policy Holder,Sedan,8059,6,500,2,6 years,31 to 35,No,No,2 to 3 years,1,Collision,35760,4,1
-Apr,3,Sunday,Nisson,Urban,Thursday,Apr,5,Male,Married,29,Policy Holder,Sedan,8060,14,400,1,7 years,31 to 35,No,No,no change,1,Collision,33307,1,0
+Apr,3,Sunday,Nissan,Urban,Thursday,Apr,5,Male,Married,29,Policy Holder,Sedan,8060,14,400,1,7 years,31 to 35,No,No,no change,1,Collision,33307,1,0
 Mar,4,Friday,Toyota,Urban,Monday,Apr,1,Male,Single,27,Third Party,Sedan,8061,7,700,2,7 years,31 to 35,No,No,no change,1,All Perils,20284,1,0
 Mar,3,Wednesday,Mazda,Urban,Thursday,Mar,3,Male,Married,36,Third Party,Sedan,8062,12,400,4,7 years,36 to 40,No,No,no change,1,Collision,24040,1,0
 Mar,2,Thursday,VW,Urban,Wednesday,Mar,3,Female,Single,30,Policy Holder,Sport,8063,12,400,2,7 years,31 to 35,No,No,no change,1,Liability,29740,4,0
@@ -8716,7 +8716,7 @@ Jan,1,Tuesday,Toyota,Urban,Friday,Jan,2,Male,Married,26,Policy Holder,Sedan,8714
 Dec,3,Tuesday,Toyota,Urban,Tuesday,Dec,4,Male,Single,22,Policy Holder,Sport,8715,6,400,3,4 years,26 to 30,No,No,no change,1,Liability,20421,2,1
 Jan,1,Thursday,Mazda,Urban,Friday,Jan,2,Male,Single,31,Policy Holder,Sedan,8716,14,400,4,6 years,31 to 35,No,No,4 to 8 years,2,Collision,21673,3,0
 Jan,1,Thursday,Chevrolet,Urban,Saturday,Jan,2,Male,Married,60,Policy Holder,Sedan,8717,3,400,2,more than 7,51 to 65,No,No,no change,1,All Perils,33600,1,0
-Jan,2,Monday,Porche,Urban,Monday,Jan,4,Male,Single,44,Policy Holder,Sport,8718,14,400,1,more than 7,36 to 40,No,No,no change,1,Liability,93693,2,0
+Jan,2,Monday,Porsche,Urban,Monday,Jan,4,Male,Single,44,Policy Holder,Sport,8718,14,400,1,more than 7,36 to 40,No,No,no change,1,Liability,93693,2,0
 Jan,2,Tuesday,Saturn,Urban,Friday,Jan,3,Male,Single,26,Policy Holder,Sport,8719,10,400,4,6 years,31 to 35,No,No,no change,1,Liability,31027,4,0
 Jan,2,Sunday,Toyota,Urban,Tuesday,Jan,2,Male,Married,47,Third Party,Sedan,8720,11,400,4,7 years,41 to 50,No,No,no change,1,All Perils,26909,1,0
 Jan,2,Sunday,Chevrolet,Urban,Monday,Jan,2,Male,Married,77,Third Party,Sport,8721,9,400,3,more than 7,over 65,No,No,no change,1,Liability,64786,4,0
@@ -8769,7 +8769,7 @@ Feb,4,Tuesday,Honda,Urban,Wednesday,Feb,4,Male,Single,34,Policy Holder,Sport,876
 Feb,3,Sunday,Toyota,Urban,Monday,Feb,3,Female,Single,32,Policy Holder,Sedan,8768,6,400,4,5 years,31 to 35,No,No,no change,1,All Perils,11735,0,0
 Feb,3,Monday,Pontiac,Urban,Friday,Feb,4,Male,Single,31,Policy Holder,Sport,8769,16,400,3,6 years,31 to 35,No,No,no change,1,Liability,21766,2,0
 Dec,4,Friday,Pontiac,Urban,Wednesday,Jan,2,Male,Married,44,Policy Holder,Sedan,8770,7,400,4,7 years,36 to 40,No,No,no change,1,All Perils,17407,3,1
-Feb,3,Friday,Nisson,Urban,Wednesday,Mar,1,Male,Married,28,Policy Holder,Sport,8771,4,400,4,6 years,31 to 35,No,No,no change,1,Liability,37825,3,0
+Feb,3,Friday,Nissan,Urban,Wednesday,Mar,1,Male,Married,28,Policy Holder,Sport,8771,4,400,4,6 years,31 to 35,No,No,no change,1,Liability,37825,3,0
 Feb,3,Sunday,Pontiac,Urban,Friday,Feb,4,Male,Married,51,Policy Holder,Sedan,8772,2,400,2,more than 7,41 to 50,No,No,no change,1,Collision,26546,0,0
 Feb,3,Saturday,Toyota,Urban,Monday,Feb,3,Male,Married,48,Policy Holder,Sport,8773,9,500,4,more than 7,41 to 50,No,No,2 to 3 years,1,Liability,34819,8,0
 Feb,2,Monday,Chevrolet,Rural,Thursday,Feb,3,Male,Single,24,Policy Holder,Sedan,8774,8,400,3,5 years,26 to 30,No,No,no change,1,Collision,21122,1,0
@@ -9903,7 +9903,7 @@ May,5,Monday,Honda,Urban,Monday,May,5,Male,Married,41,Policy Holder,Sport,9901,1
 May,4,Monday,Pontiac,Urban,Monday,May,4,Male,Single,58,Policy Holder,Sport,9902,1,400,2,more than 7,51 to 65,No,No,no change,1,Liability,38471,10,0
 Apr,3,Saturday,Toyota,Urban,Monday,Apr,3,Male,Married,41,Policy Holder,Sport,9903,14,400,2,7 years,36 to 40,No,No,no change,1,Liability,28518,1,0
 Mar,5,Wednesday,Toyota,Urban,Friday,Apr,1,Male,Single,26,Policy Holder,Sedan,9904,1,400,3,6 years,31 to 35,No,No,no change,1,Collision,24805,0,0
-Mar,4,Thursday,Nisson,Urban,Friday,Mar,4,Male,Married,40,Policy Holder,Sedan,9905,12,400,4,7 years,36 to 40,No,No,no change,1,All Perils,38219,1,0
+Mar,4,Thursday,Nissan,Urban,Friday,Mar,4,Male,Married,40,Policy Holder,Sedan,9905,12,400,4,7 years,36 to 40,No,No,no change,1,All Perils,38219,1,0
 Sep,3,Saturday,Honda,Rural,Monday,Sep,3,Male,Single,36,Policy Holder,Sedan,9906,2,400,2,7 years,36 to 40,No,No,no change,1,All Perils,34694,4,0
 Oct,2,Saturday,Chevrolet,Urban,Tuesday,Oct,2,Male,Married,65,Third Party,Sedan,9907,3,400,1,more than 7,51 to 65,No,No,no change,1,All Perils,23239,4,0
 May,3,Saturday,Honda,Urban,Monday,May,4,Male,Married,69,Third Party,Sport,9908,2,400,2,more than 7,over 65,No,No,no change,1,Liability,29452,1,0
@@ -10112,7 +10112,7 @@ Nov,2,Thursday,Toyota,Urban,Friday,Nov,3,Female,Married,54,Third Party,Sedan,101
 Nov,1,Saturday,Toyota,Urban,Thursday,Nov,3,Male,Married,42,Policy Holder,Sedan,10111,11,400,1,7 years,36 to 40,No,No,no change,1,Collision,28432,0,0
 Jan,4,Friday,Toyota,Urban,Wednesday,Feb,1,Male,Married,33,Third Party,Sedan,10112,9,400,4,7 years,31 to 35,No,No,no change,1,All Perils,28843,3,0
 Jan,4,Thursday,Pontiac,Urban,Thursday,Feb,1,Male,Single,51,Policy Holder,Utility,10113,5,400,4,7 years,41 to 50,No,No,no change,1,All Perils,79450,9,0
-Jan,3,Monday,Nisson,Urban,Wednesday,Jan,4,Male,Married,56,Policy Holder,Sedan,10114,6,400,1,more than 7,51 to 65,No,No,no change,1,Collision,14606,0,0
+Jan,3,Monday,Nissan,Urban,Wednesday,Jan,4,Male,Married,56,Policy Holder,Sedan,10114,6,400,1,more than 7,51 to 65,No,No,no change,1,Collision,14606,0,0
 Jul,1,Tuesday,Toyota,Urban,Wednesday,Jul,1,Male,Married,58,Policy Holder,Sport,10115,5,400,4,7 years,51 to 65,No,No,no change,1,Liability,27800,3,0
 Oct,4,Monday,Pontiac,Urban,Monday,Oct,4,Male,Single,31,Policy Holder,Sport,10116,10,400,4,5 years,31 to 35,No,No,no change,1,Liability,21343,4,0
 Feb,3,Tuesday,Honda,Urban,Thursday,Feb,3,Male,Single,0,Policy Holder,Utility,10117,11,400,1,new,16 to 17,No,No,no change,1,All Perils,76844,0,1
@@ -11144,7 +11144,7 @@ Apr,1,Tuesday,Honda,Urban,Monday,Apr,2,Male,Single,22,Policy Holder,Sport,11142,
 Mar,5,Friday,Toyota,Urban,Saturday,Apr,1,Male,Married,54,Policy Holder,Sedan,11143,6,400,3,7 years,41 to 50,No,No,no change,1,Collision,27125,1,0
 Jun,1,Tuesday,Mazda,Rural,Tuesday,Jun,4,Male,Married,54,Policy Holder,Sport,11144,3,400,2,7 years,41 to 50,No,No,no change,1,Collision,83039,1,0
 Mar,5,Wednesday,Mazda,Urban,Thursday,Mar,5,Male,Single,30,Third Party,Sedan,11145,4,400,2,6 years,31 to 35,No,No,no change,1,Collision,34111,2,0
-May,4,Saturday,Nisson,Urban,Monday,May,5,Female,Married,36,Policy Holder,Sedan,11146,14,400,1,more than 7,36 to 40,No,No,no change,1,All Perils,30125,0,0
+May,4,Saturday,Nissan,Urban,Monday,May,5,Female,Married,36,Policy Holder,Sedan,11146,14,400,1,more than 7,36 to 40,No,No,no change,1,All Perils,30125,0,0
 Jul,1,Sunday,Pontiac,Rural,Monday,Jul,1,Male,Married,45,Third Party,Sedan,11147,6,400,4,7 years,36 to 40,No,No,no change,1,Collision,33276,1,0
 Aug,2,Friday,Mazda,Urban,Monday,Aug,3,Male,Married,51,Third Party,Sedan,11148,10,400,1,more than 7,41 to 50,No,No,no change,1,Collision,33362,0,0
 Nov,1,Wednesday,Toyota,Rural,Thursday,Nov,1,Male,Married,52,Third Party,Sedan,11149,6,400,1,more than 7,41 to 50,No,No,no change,1,All Perils,19489,0,0
@@ -11202,7 +11202,7 @@ Oct,1,Thursday,Pontiac,Urban,Monday,Oct,2,Male,Single,28,Third Party,Sedan,11200
 Sep,5,Wednesday,Chevrolet,Urban,Wednesday,Oct,1,Male,Single,34,Third Party,Sedan,11201,8,400,2,7 years,31 to 35,No,No,no change,1,All Perils,96498,1,0
 Sep,4,Monday,Pontiac,Urban,Friday,Sep,5,Male,Married,43,Third Party,Sport,11202,10,400,3,6 years,36 to 40,No,No,no change,1,Liability,87469,2,0
 Jun,4,Monday,Pontiac,Urban,Thursday,Jul,2,Male,Married,64,Policy Holder,Sedan,11203,2,400,4,more than 7,51 to 65,No,No,no change,1,All Perils,29756,0,0
-Jun,1,Wednesday,Porche,Urban,Friday,Jun,3,Male,Married,61,Policy Holder,Utility,11204,15,400,2,more than 7,51 to 65,No,No,no change,1,Collision,74218,0,0
+Jun,1,Wednesday,Porsche,Urban,Friday,Jun,3,Male,Married,61,Policy Holder,Utility,11204,15,400,2,more than 7,51 to 65,No,No,no change,1,Collision,74218,0,0
 May,4,Thursday,Honda,Urban,Monday,Jun,1,Male,Single,50,Policy Holder,Sedan,11205,12,400,2,6 years,41 to 50,No,No,no change,1,Collision,29483,2,0
 May,4,Monday,Honda,Urban,Monday,Jul,2,Male,Married,35,Policy Holder,Sedan,11206,5,400,1,6 years,31 to 35,No,No,no change,1,Collision,20934,3,0
 Apr,4,Saturday,Pontiac,Urban,Thursday,Apr,5,Male,Married,31,Policy Holder,Sedan,11207,6,400,2,7 years,31 to 35,No,No,no change,1,All Perils,28655,2,0
@@ -11357,7 +11357,7 @@ Apr,3,Sunday,Chevrolet,Urban,Monday,Apr,3,Male,Married,57,Policy Holder,Sport,11
 Feb,4,Wednesday,Toyota,Rural,Wednesday,Feb,4,Male,Single,40,Third Party,Sedan,11356,4,400,4,6 years,36 to 40,No,No,no change,1,Collision,72240,0,0
 Feb,4,Thursday,Toyota,Rural,Tuesday,Feb,5,Female,Married,38,Third Party,Sport,11357,11,400,1,7 years,36 to 40,No,No,no change,1,Liability,24372,9,0
 Dec,2,Thursday,Chevrolet,Urban,Tuesday,Dec,2,Female,Single,35,Policy Holder,Sedan,11358,7,400,4,6 years,31 to 35,No,No,no change,3,Collision,27434,0,0
-Dec,2,Wednesday,Nisson,Urban,Friday,Dec,3,Male,Married,52,Policy Holder,Sedan,11359,12,400,3,more than 7,41 to 50,No,No,no change,1,All Perils,33273,1,0
+Dec,2,Wednesday,Nissan,Urban,Friday,Dec,3,Male,Married,52,Policy Holder,Sedan,11359,12,400,3,more than 7,41 to 50,No,No,no change,1,All Perils,33273,1,0
 Apr,1,Thursday,Honda,Urban,Monday,Apr,2,Male,Married,41,Third Party,Sport,11360,14,400,3,7 years,36 to 40,No,No,no change,1,Liability,20483,4,0
 Dec,1,Monday,Honda,Urban,Wednesday,Dec,2,Male,Single,33,Third Party,Sport,11361,7,400,1,7 years,31 to 35,Yes,No,no change,1,Liability,37547,3,0
 Nov,5,Tuesday,Chevrolet,Urban,Friday,Dec,2,Male,Married,63,Policy Holder,Sport,11362,8,400,1,more than 7,51 to 65,No,No,4 to 8 years,2,Liability,90039,2,0
@@ -11396,7 +11396,7 @@ Apr,2,Tuesday,Mazda,Urban,Wednesday,Apr,3,Male,Single,26,Policy Holder,Sport,113
 Apr,2,Thursday,Chevrolet,Urban,Tuesday,Apr,3,Male,Single,18,Policy Holder,Sedan,11395,16,400,1,3 years,21 to 25,No,No,no change,1,All Perils,85451,0,0
 Apr,2,Wednesday,Toyota,Urban,Wednesday,Apr,3,Female,Married,35,Policy Holder,Sedan,11396,5,400,1,7 years,31 to 35,No,No,no change,1,All Perils,21468,0,0
 Jul,5,Sunday,Toyota,Urban,Monday,Jul,5,Female,Married,34,Policy Holder,Sport,11397,4,400,1,7 years,31 to 35,No,No,no change,1,Liability,95666,1,0
-Aug,4,Wednesday,Nisson,Urban,Thursday,Aug,4,Male,Married,54,Third Party,Sedan,11398,10,400,2,7 years,41 to 50,No,No,no change,1,All Perils,30753,2,0
+Aug,4,Wednesday,Nissan,Urban,Thursday,Aug,4,Male,Married,54,Third Party,Sedan,11398,10,400,2,7 years,41 to 50,No,No,no change,1,All Perils,30753,2,0
 Aug,5,Monday,Ford,Urban,Tuesday,Aug,5,Male,Married,37,Policy Holder,Sedan,11399,9,400,3,more than 7,36 to 40,No,No,no change,4,Collision,33711,0,0
 Oct,2,Friday,Chevrolet,Rural,Friday,Oct,3,Male,Married,32,Third Party,Sedan,11400,13,400,1,7 years,31 to 35,No,No,no change,1,Collision,24835,2,0
 Nov,5,Wednesday,Pontiac,Urban,Thursday,Dec,3,Male,Married,43,Third Party,Sedan,11401,1,400,3,more than 7,36 to 40,No,No,no change,1,Collision,19435,1,0
@@ -11779,7 +11779,7 @@ Jun,1,Thursday,Chevrolet,Urban,Monday,Jun,1,Male,Single,33,Third Party,Sedan,117
 Jun,1,Friday,Pontiac,Urban,Wednesday,Jul,4,Male,Married,37,Policy Holder,Sport,11778,15,400,2,7 years,36 to 40,No,No,no change,1,Liability,32835,10,0
 Jan,3,Sunday,Pontiac,Urban,Tuesday,Jan,4,Male,Single,30,Policy Holder,Sedan,11779,9,400,1,6 years,31 to 35,No,No,no change,1,All Perils,18953,0,0
 Mar,4,Wednesday,Honda,Urban,Wednesday,Apr,1,Male,Married,27,Third Party,Sedan,11780,14,400,1,6 years,31 to 35,No,No,no change,1,Collision,22990,0,0
-Jun,2,Tuesday,Nisson,Rural,Thursday,Jun,3,Male,Married,39,Policy Holder,Sedan,11781,13,400,3,2 years,36 to 40,No,No,no change,1,Collision,36744,3,0
+Jun,2,Tuesday,Nissan,Rural,Thursday,Jun,3,Male,Married,39,Policy Holder,Sedan,11781,13,400,3,2 years,36 to 40,No,No,no change,1,Collision,36744,3,0
 Sep,4,Tuesday,Chevrolet,Urban,Wednesday,Sep,5,Female,Single,58,Policy Holder,Sedan,11782,12,500,4,7 years,51 to 65,No,No,2 to 3 years,2,Collision,26841,4,0
 Apr,4,Monday,Chevrolet,Urban,Tuesday,Apr,4,Male,Single,29,Policy Holder,Sedan,11783,4,400,3,6 years,31 to 35,No,No,no change,1,All Perils,30947,10,1
 Nov,3,Friday,Pontiac,Urban,Monday,Nov,4,Male,Married,65,Policy Holder,Sedan,11784,1,400,4,more than 7,51 to 65,No,No,no change,1,All Perils,29066,0,0
@@ -11982,9 +11982,9 @@ Oct,2,Tuesday,Honda,Urban,Friday,Feb,3,Male,Single,0,Policy Holder,Sedan,11980,1
 Aug,3,Saturday,Chevrolet,Urban,Tuesday,Jan,2,Male,Married,36,Policy Holder,Sedan,11981,14,400,1,7 years,36 to 40,No,No,no change,1,Collision,39080,1,0
 May,1,Thursday,Saab,Urban,Tuesday,May,2,Female,Single,28,Policy Holder,Sedan,11982,10,400,4,6 years,31 to 35,No,No,no change,1,All Perils,33513,10,1
 Jun,4,Wednesday,Chevrolet,Urban,Tuesday,Jan,4,Male,Married,61,Third Party,Sport,11983,8,400,1,more than 7,51 to 65,No,No,no change,1,Liability,7923,4,0
-Jan,4,Wednesday,Nisson,Urban,Monday,Mar,3,Male,Married,26,Policy Holder,Sedan,11984,15,400,3,7 years,31 to 35,No,No,no change,1,All Perils,34468,2,0
+Jan,4,Wednesday,Nissan,Urban,Monday,Mar,3,Male,Married,26,Policy Holder,Sedan,11984,15,400,3,7 years,31 to 35,No,No,no change,1,All Perils,34468,2,0
 Aug,3,Tuesday,Mazda,Urban,Wednesday,Sep,1,Female,Married,35,Policy Holder,Sport,11985,12,400,1,5 years,31 to 35,No,No,no change,1,Liability,27698,4,0
-Dec,4,Saturday,Nisson,Urban,Monday,Dec,4,Male,Married,49,Policy Holder,Sport,11986,8,500,2,more than 7,41 to 50,No,No,2 to 3 years,1,Liability,35294,4,0
+Dec,4,Saturday,Nissan,Urban,Monday,Dec,4,Male,Married,49,Policy Holder,Sport,11986,8,500,2,more than 7,41 to 50,No,No,2 to 3 years,1,Liability,35294,4,0
 Dec,2,Monday,Toyota,Urban,Tuesday,Feb,2,Male,Married,37,Third Party,Sedan,11987,10,400,4,7 years,36 to 40,No,No,no change,1,All Perils,29637,0,0
 Nov,4,Wednesday,Toyota,Rural,Monday,Nov,5,Male,Married,37,Policy Holder,Sport,11988,4,400,2,more than 7,36 to 40,No,No,no change,1,Liability,34640,8,0
 Oct,4,Friday,Chevrolet,Urban,Friday,Oct,4,Male,Single,31,Policy Holder,Sport,11989,16,400,1,7 years,31 to 35,No,No,no change,1,Liability,20052,6,0
@@ -12514,7 +12514,7 @@ Oct,3,Thursday,Pontiac,Urban,Wednesday,Oct,4,Male,Married,30,Policy Holder,Sedan
 Apr,3,Monday,Toyota,Urban,Monday,Apr,3,Male,Single,26,Policy Holder,Sedan,12513,13,400,4,6 years,31 to 35,No,No,no change,1,Collision,22393,4,0
 Apr,3,Tuesday,Pontiac,Urban,Tuesday,Apr,3,Male,Married,46,Policy Holder,Sedan,12514,4,400,3,more than 7,41 to 50,No,No,no change,1,Collision,25108,4,0
 Oct,2,Saturday,Chevrolet,Urban,Tuesday,Oct,3,Male,Married,47,Policy Holder,Sedan,12515,16,400,1,more than 7,41 to 50,No,No,no change,1,Collision,32295,0,0
-Aug,2,Wednesday,Porche,Urban,Friday,Aug,2,Male,Single,56,Policy Holder,Utility,12516,16,400,1,more than 7,51 to 65,No,No,no change,1,Collision,5681,3,0
+Aug,2,Wednesday,Porsche,Urban,Friday,Aug,2,Male,Single,56,Policy Holder,Utility,12516,16,400,1,more than 7,51 to 65,No,No,no change,1,Collision,5681,3,0
 Dec,1,Friday,Toyota,Urban,Monday,Dec,1,Female,Single,28,Third Party,Sedan,12517,2,400,4,5 years,31 to 35,No,No,4 to 8 years,2,Collision,12813,0,0
 Nov,4,Monday,Pontiac,Urban,Tuesday,Nov,4,Male,Married,73,Policy Holder,Sedan,12518,11,400,2,more than 7,over 65,No,No,no change,1,Collision,30582,0,0
 May,4,Saturday,Chevrolet,Urban,Wednesday,May,5,Male,Single,35,Policy Holder,Sedan,12519,9,400,3,6 years,31 to 35,No,No,no change,1,Collision,29784,1,1
@@ -12799,7 +12799,7 @@ Apr,3,Friday,Mazda,Rural,Friday,Apr,3,Male,Single,19,Policy Holder,Sport,12797,1
 Apr,2,Saturday,Toyota,Urban,Tuesday,May,1,Male,Married,52,Policy Holder,Sedan,12798,12,400,4,more than 7,41 to 50,No,No,no change,1,All Perils,9840,0,0
 Jun,2,Sunday,Toyota,Urban,Monday,Jun,2,Male,Married,31,Policy Holder,Sport,12799,6,400,4,7 years,31 to 35,No,No,no change,1,Liability,32147,3,0
 Jun,2,Sunday,Mazda,Urban,Monday,Jun,2,Male,Married,37,Policy Holder,Sedan,12800,11,400,3,6 years,36 to 40,No,No,no change,1,Collision,20018,4,0
-Jun,2,Wednesday,Nisson,Urban,Monday,Jun,4,Male,Married,39,Policy Holder,Sedan,12801,10,400,2,7 years,36 to 40,No,No,no change,1,All Perils,89866,2,0
+Jun,2,Wednesday,Nissan,Urban,Monday,Jun,4,Male,Married,39,Policy Holder,Sedan,12801,10,400,2,7 years,36 to 40,No,No,no change,1,All Perils,89866,2,0
 Jun,2,Wednesday,Honda,Urban,Friday,Jun,2,Male,Single,52,Policy Holder,Sport,12802,3,500,4,7 years,41 to 50,No,No,2 to 3 years,1,Liability,23317,5,0
 May,4,Monday,Pontiac,Rural,Monday,May,4,Male,Married,39,Policy Holder,Sedan,12803,4,400,2,7 years,36 to 40,No,No,no change,1,Collision,34962,1,0
 Jun,2,Wednesday,Honda,Urban,Monday,Jun,4,Male,Single,30,Policy Holder,Sedan,12804,15,400,1,6 years,31 to 35,No,No,no change,1,Collision,23699,0,1
@@ -12819,7 +12819,7 @@ Jul,4,Friday,Pontiac,Rural,Thursday,Aug,1,Male,Married,29,Policy Holder,Sedan,12
 Jul,1,Monday,Ford,Rural,Wednesday,Jul,1,Male,Married,29,Policy Holder,Sedan,12818,2,400,1,7 years,31 to 35,No,No,no change,1,Collision,8997,1,0
 Aug,5,Monday,Pontiac,Urban,Monday,Sep,1,Male,Single,27,Policy Holder,Sedan,12819,6,400,3,7 years,31 to 35,No,No,no change,1,Collision,34642,2,0
 Jun,2,Wednesday,Mazda,Rural,Friday,Jun,3,Male,Single,27,Third Party,Sedan,12820,4,400,4,7 years,31 to 35,No,No,no change,1,All Perils,29157,0,0
-Nov,3,Tuesday,Nisson,Urban,Thursday,Nov,3,Male,Married,60,Third Party,Utility,12821,1,400,4,more than 7,51 to 65,No,No,no change,1,All Perils,79920,1,0
+Nov,3,Tuesday,Nissan,Urban,Thursday,Nov,3,Male,Married,60,Third Party,Utility,12821,1,400,4,more than 7,51 to 65,No,No,no change,1,All Perils,79920,1,0
 Nov,1,Sunday,Toyota,Rural,Tuesday,Nov,5,Male,Married,30,Policy Holder,Sedan,12822,15,400,2,7 years,31 to 35,No,No,no change,1,Collision,22018,0,0
 Dec,3,Tuesday,Ford,Urban,Wednesday,Dec,4,Male,Married,33,Policy Holder,Sedan,12823,7,400,2,6 years,31 to 35,No,No,no change,1,All Perils,39077,3,0
 Feb,1,Sunday,Pontiac,Rural,Thursday,Feb,2,Male,Married,65,Third Party,Sport,12824,9,400,3,6 years,51 to 65,No,No,no change,1,Liability,21301,3,0
@@ -12929,7 +12929,7 @@ Aug,1,Sunday,Accura,Urban,Monday,Aug,2,Male,Married,46,Policy Holder,Sport,12927
 Jul,4,Sunday,Honda,Urban,Tuesday,Aug,1,Male,Single,34,Policy Holder,Sedan,12928,2,400,3,6 years,31 to 35,No,No,no change,1,All Perils,25544,6,0
 Jul,3,Sunday,Ford,Urban,Monday,Jul,3,Male,Single,22,Third Party,Sedan,12929,5,400,4,5 years,26 to 30,No,No,no change,1,Collision,32091,0,0
 Jul,3,Monday,VW,Rural,Tuesday,Jul,3,Male,Married,48,Policy Holder,Sport,12930,10,400,2,more than 7,41 to 50,No,No,no change,1,Liability,98247,0,0
-Jun,2,Monday,Nisson,Urban,Monday,Jun,2,Male,Married,52,Third Party,Sedan,12931,7,400,2,more than 7,41 to 50,No,No,no change,1,All Perils,89446,2,0
+Jun,2,Monday,Nissan,Urban,Monday,Jun,2,Male,Married,52,Third Party,Sedan,12931,7,400,2,more than 7,41 to 50,No,No,no change,1,All Perils,89446,2,0
 Jun,5,Friday,Chevrolet,Urban,Wednesday,Jul,1,Male,Married,40,Policy Holder,Sport,12932,15,400,2,7 years,36 to 40,No,No,no change,1,Liability,35902,1,0
 Jun,5,Wednesday,Honda,Urban,Thursday,Jun,5,Male,Married,61,Policy Holder,Sport,12933,1,400,4,more than 7,51 to 65,No,No,no change,1,Liability,22996,3,0
 Jun,1,Tuesday,Toyota,Rural,Thursday,Jun,2,Male,Married,50,Policy Holder,Sedan,12934,1,400,2,more than 7,41 to 50,No,No,no change,1,All Perils,22470,3,0
@@ -12969,7 +12969,7 @@ Sep,1,Thursday,Honda,Urban,Friday,Sep,3,Male,Married,43,Policy Holder,Sport,1296
 Sep,1,Thursday,Pontiac,Urban,Friday,Oct,2,Male,Single,28,Policy Holder,Sport,12968,16,400,1,6 years,31 to 35,No,No,no change,1,Liability,33628,3,0
 Nov,5,Monday,Toyota,Urban,Thursday,Dec,3,Male,Single,25,Policy Holder,Sedan,12969,4,400,2,3 years,26 to 30,No,No,no change,1,Collision,24953,1,0
 Apr,5,Friday,Pontiac,Urban,Tuesday,May,1,Male,Single,52,Policy Holder,Utility,12970,3,400,2,more than 7,41 to 50,No,No,no change,1,All Perils,97360,0,0
-Apr,2,Friday,Nisson,Urban,Friday,May,3,Male,Married,50,Policy Holder,Utility,12971,16,400,4,more than 7,41 to 50,No,No,no change,1,All Perils,96385,1,0
+Apr,2,Friday,Nissan,Urban,Friday,May,3,Male,Married,50,Policy Holder,Utility,12971,16,400,4,more than 7,41 to 50,No,No,no change,1,All Perils,96385,1,0
 Aug,4,Friday,Dodge,Urban,Friday,Aug,4,Male,Married,52,Policy Holder,Sport,12972,12,400,1,7 years,41 to 50,No,No,no change,1,Liability,36844,3,0
 Aug,4,Sunday,Toyota,Urban,Tuesday,Aug,5,Male,Single,52,Policy Holder,Sport,12973,3,400,3,7 years,41 to 50,No,No,no change,1,Liability,21548,3,0
 Aug,4,Thursday,Mazda,Urban,Monday,Sep,1,Male,Single,26,Policy Holder,Sedan,12974,12,400,1,6 years,31 to 35,No,No,no change,1,Collision,23474,1,0
@@ -14355,7 +14355,7 @@ Jun,4,Monday,Pontiac,Urban,Monday,Jul,3,Male,Married,46,Policy Holder,Sedan,1435
 Sep,4,Friday,Honda,Urban,Monday,Sep,4,Male,Married,35,Policy Holder,Sport,14354,8,700,2,7 years,31 to 35,No,No,no change,1,Liability,31460,0,0
 Sep,3,Monday,Honda,Urban,Monday,Sep,3,Male,Married,51,Policy Holder,Sport,14355,12,400,3,7 years,41 to 50,No,No,no change,1,Liability,22223,4,0
 Oct,1,Thursday,Pontiac,Urban,Friday,Oct,2,Male,Single,27,Policy Holder,Sport,14356,16,400,3,7 years,31 to 35,No,No,no change,1,Liability,35050,9,0
-Sep,1,Friday,Nisson,Rural,Monday,Sep,1,Male,Married,28,Policy Holder,Sport,14357,2,400,3,4 years,31 to 35,No,No,no change,1,Liability,76750,4,0
+Sep,1,Friday,Nissan,Rural,Monday,Sep,1,Male,Married,28,Policy Holder,Sport,14357,2,400,3,4 years,31 to 35,No,No,no change,1,Liability,76750,4,0
 Oct,4,Wednesday,Mazda,Urban,Thursday,Oct,4,Male,Single,34,Third Party,Sedan,14358,6,400,2,6 years,31 to 35,No,No,no change,1,Collision,23872,0,0
 Dec,4,Wednesday,Toyota,Urban,Friday,Dec,4,Female,Married,28,Policy Holder,Sedan,14359,15,400,4,6 years,31 to 35,No,No,no change,1,All Perils,17241,0,0
 Dec,2,Wednesday,Toyota,Urban,Friday,Dec,2,Male,Single,34,Third Party,Sedan,14360,5,400,4,6 years,31 to 35,No,No,no change,1,Collision,29877,0,0
@@ -14366,7 +14366,7 @@ Jun,1,Monday,Toyota,Urban,Tuesday,Jun,1,Male,Single,49,Policy Holder,Sport,14364
 Aug,2,Friday,Ford,Urban,Thursday,Aug,3,Male,Married,49,Policy Holder,Utility,14365,6,400,1,more than 7,41 to 50,No,No,4 to 8 years,2,All Perils,88686,0,0
 Aug,2,Saturday,Toyota,Urban,Friday,Sep,2,Male,Single,31,Policy Holder,Sedan,14366,11,400,2,7 years,31 to 35,No,No,no change,1,All Perils,17072,3,0
 Sep,1,Saturday,Toyota,Urban,Tuesday,Sep,1,Female,Married,28,Policy Holder,Sedan,14367,3,400,2,5 years,31 to 35,No,No,no change,1,Collision,27875,0,1
-Sep,2,Friday,Nisson,Urban,Monday,Sep,2,Male,Married,40,Policy Holder,Sedan,14368,14,400,2,7 years,36 to 40,No,No,no change,1,Collision,86034,2,0
+Sep,2,Friday,Nissan,Urban,Monday,Sep,2,Male,Married,40,Policy Holder,Sedan,14368,14,400,2,7 years,36 to 40,No,No,no change,1,Collision,86034,2,0
 Oct,2,Tuesday,Pontiac,Urban,Monday,Oct,5,Male,Single,34,Third Party,Sedan,14369,7,400,4,6 years,31 to 35,No,No,no change,1,Collision,27160,0,0
 Oct,1,Wednesday,Toyota,Urban,Tuesday,Oct,3,Male,Married,37,Third Party,Sedan,14370,7,400,2,6 years,36 to 40,No,No,no change,1,All Perils,11747,1,0
 Dec,2,Monday,Toyota,Rural,Monday,Dec,2,Male,Single,28,Policy Holder,Sedan,14371,16,400,1,6 years,31 to 35,No,No,no change,1,Collision,32569,4,0
